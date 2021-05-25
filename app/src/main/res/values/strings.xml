@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lecteur Audio</string>
+    <string name="toast_add_fav">Le titre a bien été ajouté à vos favoris</string>
+    <string name="toast_add_fav_already_exist">Le titre ajouté existe déjà dans vos favoris</string>
+    <string name="toast_no_permission">Vous avez refusé la permission cependant sachez que l\'application fonctionnera partiellement. Vous pouvez accepter les permissions en allant dans les paramètres de votre téléphone.</string>
+    <string name="toast_play">Musique en cours de lecture.</string>
+    <string name="toast_pause">La musique a bien été mise en pause.</string>
+    <string name="toast_stop">La musique a bien été arrêtée.</string>
+    <string name="description">description</string>
+    <string name="switch_text">Favoris</string>
+</resources>
